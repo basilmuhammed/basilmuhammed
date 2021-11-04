@@ -53,7 +53,10 @@
 
 <h3> Git </h3>
 
-![GitHub followers](https://img.shields.io/github/followers/basilmuhammed?style=social)
+[![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilmuhammed&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilmuhammed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <!--
