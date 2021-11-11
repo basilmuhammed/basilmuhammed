@@ -27,7 +27,7 @@
 
 
 
-<h3> Tech Stack </h3>
+<!-- <h3> Tech Stack </h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -49,12 +49,12 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-  ![AfterEffect](https://img.shields.io/badge/-AfterEffect-333333?style=flat&logo=adobe-aftereffect)
+  ![AfterEffect](https://img.shields.io/badge/-AfterEffect-333333?style=flat&logo=adobe-aftereffect) -->
 
 <h3> Git </h3>
 
 [![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilmuhammed&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilmuhammed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilmuhammed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
