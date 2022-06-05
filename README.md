@@ -19,9 +19,27 @@
 
 <br/>
 
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,netlify,nextjs,html,css,react,nodejs,redis," />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,appwrite,bash,firebase" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,prisma,vscode" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=figma,ae,pr,ps,ai" />
+</p>
+
 <h3 align="center"👓&nbsp; You can find me on </h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/basilmuhd?style=social)
+
 
 
 
