@@ -20,6 +20,7 @@
 <br/>
 
 
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,jquery,netlify,nextjs,html,css,react,nodejs,redis," />
 </p>
@@ -76,6 +77,8 @@
 
 
 
+  <a href="https://app.daily.dev/basilmuhd"><img src="https://api.daily.dev/devcards/26863e4754f44795b567b13257bc730e.png?r=iay" width="400" alt="Basil Muhammed's Dev Card"/></a>
+  
 <!--
 **basilmuhammed/basilmuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
