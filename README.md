@@ -74,10 +74,6 @@
 [![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilmuhammed&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basilmuhammed&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-
-
-  <a href="https://app.daily.dev/basilmuhd"><img src="https://api.daily.dev/devcards/26863e4754f44795b567b13257bc730e.png?r=iay" width="400" alt="Basil Muhammed's Dev Card"/></a>
   
 <!--
 **basilmuhammed/basilmuhammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
